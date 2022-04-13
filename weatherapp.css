@@ -7,7 +7,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.container {
+.holder {
     display: grid;
     align-items: center;
     justify-content: center;
@@ -21,7 +21,7 @@ body {
     height: 100vh;
 }
 
-.card {
+.carder {
     width: 100%;
     max-width: 400px;
     padding: 20px;
